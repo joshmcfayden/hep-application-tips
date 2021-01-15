@@ -42,16 +42,16 @@
       <ul class="nav navbar-nav">
 
 	{% comment %} Always show code of conduct. {% endcomment %}
-        <li><a href="{{ relative_root_path }}{% link CODE_OF_CONDUCT.md %}">Code of Conduct</a></li>
+        <!--<li><a href="{{ relative_root_path }}{% link CODE_OF_CONDUCT.md %}">Code of Conduct</a></li>-->
 
         {% if site.kind == "lesson" %}
 	{% comment %} Show setup instructions. {% endcomment %}
-        <li><a href="{{ relative_root_path }}{% link setup.md %}">Setup</a></li>
+        <!--<li><a href="{{ relative_root_path }}{% link setup.md %}">Setup</a></li>-->
 
         {% comment %} Show lesson episodes for lessons. {% endcomment %}
         {% if lesson_episodes.size > 0 %}
         <li class="dropdown">
-          <a href="{{ relative_root_path }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Episodes <span class="caret"></span></a>
+          <a href="{{ relative_root_path }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sections <span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for lesson_episode in lesson_episodes %}
             {% if site.episode_order %}
@@ -69,7 +69,7 @@
 	{% endif %}
 
 	{% comment %} Show extras for lessons or if this is the main workshop-template repo (where they contain documentation). {% endcomment %}
-	{% if site.kind == "lesson" %}
+	{% if site.kind == "lesson" and False %}
         <li class="dropdown">
           <a href="{{ relative_root_path }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Extras <span class="caret"></span></a>
           <ul class="dropdown-menu">
