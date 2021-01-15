@@ -10,9 +10,6 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-# Endnote
-
-
 ## Life outside of academia may not be so bad
 - The prospect of not being able to continue in your chosen career path can be very sad and even depressing
 - Having to apply for jobs in a completely new (and alien) field with e.g. different formats for job applications and interview styles while trying to do your day-to-day work can be really tough mentally an physically 

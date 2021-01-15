@@ -10,8 +10,6 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-# Writing
-
 ## General
 
 ### What are you trying to show?

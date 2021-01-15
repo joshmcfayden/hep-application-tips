@@ -10,8 +10,6 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-# Interview
-
 ## Interview slides
 - Make sure you keep them light on text and pull out the key messages from your proposal in an accessible way
 - Do spend time on the “Things you’ve done since submitting"
