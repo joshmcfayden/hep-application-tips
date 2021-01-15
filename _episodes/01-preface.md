@@ -10,7 +10,9 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-A note about being lucky
+# Luck
+
+## A note about being lucky
 - I was very lucky
 - I was asked to be ttHML analysis coordinator at a time when I wasn’t expecting it
 	- This made a massive difference to my final proposal (see below) 
@@ -22,7 +24,7 @@ A note about being lucky
 - Lucky in the longer term with good supervisors etc.
 	- And good references
 
-Make your own luck
+## Make your own luck
 - Over the years I have deliberately kept my toe in with previous analyses in case they become useful again
 	- For example: ttHML, Zbb
 	- This gives you a lot more flexibility in topics for a proposal where you can back-up your proposal topic with experience
