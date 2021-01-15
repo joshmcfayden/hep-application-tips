@@ -21,12 +21,19 @@ This idea of this page is to provide some guidance for people putting together H
 # Housekeeping
 
 
-The development of this page
+## Development of this page
+
+It is my hope that this page can be improved by inputs from other people. Please use the "Improve this page" link at the top of the page to make a suggestion.
 
 
 ## My background
 
-##
+Why am I qualified to write this?
+
+
+### CV of Failures
+
+TODO
 
 
 > ## Test discussion
