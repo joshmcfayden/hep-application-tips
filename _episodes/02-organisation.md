@@ -15,13 +15,24 @@ keypoints:
 ## Give yourself plenty of time
 - First to prepare the application
 - But also to apply in multiple rounds!
-	- My successful application came on my second attempt after making quite a big change of focus (precision V and VV+jets measurements with PDF fits —> tt+H/Z/W plus new tW-scattering measurement with EFT fits)
-- You get a good understanding of the process first time around, but you may not have a well tweaked proposal (e.g. it is hard to find time to step back)
--  You may consider re-focussing your proposal after the first round.
-- If you need to, sacrifice other commitments to spend time on these applications. In the long run they are soo much more important than whether your next analysis makes ICHEP etc...
+	- My successful application came on my second attempt after making quite a big change of focus (precision electroweak measurements vs top+Higgs measurements)
+- You get a good understanding of the process first time around, but you may not have a well tweaked proposal
+  - For example it is hard to find time to step back think more about the physics when you're knee-deep in writing various parts of the application for the first time.
+- You may consider re-focussing your proposal after the first round.
+
+> ## Priorities...
+>
+> If you need to, sacrifice other commitments to spend time on these applications. In the long run they are *sooo* much more important than whether your next analysis makes ICHEP etc...
+{: .keypoints}
+
+
 
 ## Check internal institute deadlines
-TODO
+
+> ## TODO
+> Complete section
+{: .callout}
+
 
 
 

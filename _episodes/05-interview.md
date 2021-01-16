@@ -23,7 +23,7 @@ keypoints:
 		- E.g. messages like
 			- “Understanding the fate of the universe"
 			- “Factor 3 improvement in sensitivity"
- 
+
 ## Interview itself 
 - Do lots of practise, again with people from different backgrounds 
 - For e.g. RS URF the panel is broad, includes e.g. Geologists - you need to sell to them too (and you don’t have long anyway)
@@ -38,8 +38,12 @@ keypoints:
 - Think of and
 - Speak to lots of people
 	- Get tips!
-- TODO (check my interview notes)
-- TODO (collate other people’s interview tips, e.g. Dan, Jay, Conor)
+
+
+> ## TODO
+>- check my interview notes
+>- collate other people’s interview tips
+{: .callout}
 
 
 
