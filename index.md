@@ -32,14 +32,17 @@ Please find a few bits of housekeeping below. __To get started__ head straight t
 
 # Target Audience
 
-TODO: Career stage
+> ## TODO
+>Career stage
+>
+>Fellowships
+>- URF
+>- ERF
+>- FLF
+>
+>Tailoring your application to the fellowship
+{: .callout}
 
-TODO: Fellowships
-- URF
-- ERF
-- FLF
-
-TODO: Tailoring your application to the fellowship
 
 <br>
 
@@ -71,12 +74,14 @@ Despite having some success in fellowship application we are all too aware that 
 Success came after 3 rejections from similar fellowship applications:
 - 1x Royal Society University Research Fellowship
 - 2x STFC Ernest Rutherford Fellowship
-(Each of these previous rejections was really hard to take!)
+
+*(Each of these previous rejections was really hard to take!)*
 
 In the 2 years leading up to this there were 3 other failed applications for senior positions. Only once did this lead to an interview and none of the applications were successful:
 - 2x Lectureships at UK universities
 - 1x CERN Staff (LD)
-(All also very hard to take!)
+
+*(All also very hard to take!)*
 
 While waiting to hear back from the (eventually) successful application my contract was close to finishing and I was very close to leaving the field... So close that I've been applying for jobs outside academia. This is a significant extra load for day-to-day work and mental wellbeing, but there is something to be said for seeing that there are other opportunities around.
 
