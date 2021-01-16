@@ -13,7 +13,7 @@ keypoints:
 ## General
 
 ### What are you trying to show?
-- Why this? (Wider picture)
+- Why this topic? (Wider picture)
 - Why is it innovative? (Needs to be something new/exciting)
 - Why me? (Why I’m the best person in the world to do this?)
 
@@ -32,21 +32,24 @@ keypoints:
 
 
 - Get input from a wide range of people
-- If you’re able to look at previous applications (so institutes keep a “library" of successful apps).
-- Try at least running the idea past people on different experiments (in my case g-2)
-- I also ran it past theorists
-- Also try to run it past senior people at the level that would be on the panel for this kind of application
+- If you’re able to, definitely look at previous (preferably successful) applications
+    - Some institutes keep a “library" of successful apps.
+- Try at least running the idea past people on different experiments (e.g a proposal on *ATLAS* could be discussed with someone on *g-2* or *DUNE*)
+    - Also try discussing it with the relevant theorists, if appropriate.
+- If possible, discuss it with senior people at the level that would be on the panel for this kind of application.
 
 
 ### Know what’s in vogue
 - You may not like it but sometimes helps to be in touch with what the in vogue topics of the day are
-	- E.g. for me: EFTs, Machine Learning, Higgs self-coupling
-	- This is not to say that you should write proposals on these things but that you should know what is generally found to be appealing about them
+	- E.g. EFTs, Machine Learning, Higgs self-coupling
+	- This is not to say that you should only write proposals on these things, but that you should know what is generally found to be appealing about them:
 		- Cutting edge tech, research that is clearly interdisciplinary 
 	- BUT... just mentioning these things is not enough, that’s just obvious buzzword dropping - you have to back it up!
+	  	- Every application will mention Machine Learning, if you are going to include this, be specific!
 		- I wanted to do EFT fits, to back it up I added a toy EFT fit to my proposal to show I actually knew how to do it.
 
-- I discussed my application with someone at a senior level (who had been on these sorts of panels) they said: *"if it doesn’t involve the Higgs self-coupling don’t bother"*. They were certainly 99% joking, but you get the idea...
+- Anecdotal example:
+        - Application with someone at a senior level (who had been on these sorts of panels) they said: *"if it doesn’t involve the Higgs self-coupling don’t bother"*. They were certainly 99% joking, but you get the idea...
 
 ## Specifics
 

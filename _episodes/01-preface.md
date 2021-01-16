@@ -25,12 +25,17 @@ Yes, very cliched! But to some extent there are things you can do to open up mor
 - Most people naturally cover different topics across their PhD and first post-docs. It can useful to keep in touch with previous analyses in case they become useful again.
 	- This gives you a lot more flexibility in topics for a proposal where you can back-up your proposal topic with relevant experience.
 	- More opportunity to get "paper editor" and "analysis coordinator" roles - see below.
-	        - One new analysis that I helped initiate in the 2 years before my application I was particularly keen on partly because I knew it was a small analysis team I would be more likely to get one of these roles (it was also just a super cool analysis!).
+
 
 > ## Balance
->
 > Despite saying that working on many different things can be a benefit, it's also true that going in the opposite direction and being a real master of one particular topic can also work in your favour. It's also likely not to be a good idea to have very limited experience in loads of different topics, without demonstratable leadership/expertise in any of them. It's a fine line and tricky to balance! 
 {: .discussion}
+
+> ## Example
+> One new analysis that I helped initiate in the 2 years before my application I was particularly keen on partly because I knew it was a small analysis team I would be more likely to get one of these roles (it was also just a super cool analysis!).
+{: .prereq}
+
+
 
 - Leadership roles
 	- These are important to back up your claims of experience 
