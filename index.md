@@ -28,7 +28,10 @@ Please find a few bits of housekeeping below. __To get started__ head straight t
 {: .caution}
 
 
-<br>
+<!-- CONTENTS -->
+{% include contents.html %}
+
+
 
 # Target Audience
 
