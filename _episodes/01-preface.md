@@ -4,7 +4,7 @@ title: "Preface"
 
 # Luck
 
-Some people are brilliant and write brilliant proposals, but almost everyone luck plays a large part in being successful on these applications!
+Some people are brilliant and write brilliant proposals, but for almost everyone luck plays a large part in being successful on these applications!
 
 ## Personal examples of being lucky
 - I was very lucky
