@@ -1,5 +1,5 @@
 ---
-title: "Hard Truths"
+title: "Harsh Truths"
 teaching: 0
 exercises: 0
 questions:
