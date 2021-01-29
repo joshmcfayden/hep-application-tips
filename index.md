@@ -86,8 +86,6 @@ In the 2 years leading up to this there were 3 other failed applications for sen
 
 *(All also very hard to take!)*
 
-While waiting to hear back from the (eventually) successful application my contract was close to finishing and I was very close to leaving the field... So close that I've been applying for jobs outside academia. This is a significant extra load for day-to-day work and mental wellbeing, but there is something to be said for seeing that there are other opportunities around.
-
 
 <!--
 > ## Test keypoints
