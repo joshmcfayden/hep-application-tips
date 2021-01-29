@@ -72,7 +72,7 @@ Why are we qualified to write this page? The authors of this page are not people
 
 ### CV of Failures
 
-Despite having some success in fellowship application we are all too aware that many people will also be struggling with rejection. We've been there too and to help normalise these experiences we think it's useful to share a *"CV of failures"* to show that this success is not easy to achieve.
+Despite having some success in fellowship application we are all too aware that many people will also be struggling with rejection. We've been there too and to help normalise these experiences we think it's useful to share a *"CV of failures"* from one of the authors to show that this success is not easy to achieve.
 
 Success came after 3 rejections from similar fellowship applications:
 - 1x Royal Society University Research Fellowship

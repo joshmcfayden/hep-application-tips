@@ -7,15 +7,14 @@ title: "Preface"
 Some people are brilliant and write brilliant proposals, but for almost everyone luck plays a large part in being successful on these applications!
 
 ## Personal examples of being lucky
-- I was very lucky
-- Lucky in the longer term with good supervisors etc.
-- Very luck that my PhD supervisor became ATLAS Physics Coordinator which added more weight to what was already a strong reference.
-- I was asked to be analysis coordinator at a time when I wasn’t expecting it.
-	- This made a massive difference to my final proposal (it was the main reason I switched topic to something Higgs-focussed)
-- I was lucky to have results come out at the perfect time
-	- Main analysis CONF note came out right after my application 
-	- Another high profile analysis paper came out (and got press from ATLAS and CERN) just before my interview.
-	- Small things… but you can also use them to your advantage (e.g. interview - see below)
+- Being lucky in the longer term with good supervisors.
+- Lucky that a previous supervisor became ATLAS Physics Coordinator which added more weight to an already strong reference letter writer.
+- Being asked to be analysis coordinator at timely moments
+	- Can make a big difference to the strength of a proposal - adding a lot of weight to your experience.
+- Lucky to have results made public at convenient times
+	- Main analysis publication coming soon before/after application
+	- Another high profile analysis publication came out (and got press from ATLAS and CERN) just before interview.
+		- You can also use them to your advantage (e.g. interview - see later)
 - Lucky to get a well known theorist as a named collaborator
 
 ## Making your own luck
@@ -24,7 +23,7 @@ Yes, very cliched! But to some extent there are things you can do to open up mor
 
 - Most people naturally cover different topics across their PhD and first post-docs. It can useful to keep in touch with previous analyses in case they become useful again.
 	- This gives you a lot more flexibility in topics for a proposal where you can back-up your proposal topic with relevant experience.
-	- More opportunity to get "paper editor" and "analysis coordinator" roles - see below.
+	- More opportunity to get "paper editor" and "analysis coordinator" and other roles of responsibility.
 
 
 > ## Balance
@@ -32,7 +31,7 @@ Yes, very cliched! But to some extent there are things you can do to open up mor
 {: .discussion}
 
 > ## Example
-> One new analysis that I helped initiate in the 2 years before my application I was particularly keen on partly because I knew it was a small analysis team I would be more likely to get one of these roles (it was also just a super cool analysis!).
+> Being able to intiate an analysis with a small analysis team can make you more likely to get one of these roles (but do it also for the physics!).
 {: .prereq}
 
 
@@ -41,11 +40,11 @@ Yes, very cliched! But to some extent there are things you can do to open up mor
 	- These are important to back up your claims of experience 
 	- but also raise your profile in the experiment 
 		- Get access to more senior people 
-		- Good for references! - This is a super important point IMO
+		- Good for references! - This is a super important point 
 - Timing
-	- I applied with 6 months left on my contract the application process takes ~10 months
-	- I managed to get a short term contract to bridge the gap
-	- But if I hadn’t got the fellowship I would have been out of the field 
+	- Application process takes ~10 months - make sure you have time left on your current contract
+	        - Can be beneficial to apply in multiple round to get practise in preparing the proposal/application - don't be afraid of applying early.
+
 
 
 {% include links.md %}

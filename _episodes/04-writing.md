@@ -46,31 +46,31 @@ keypoints:
 		- Cutting edge tech, research that is clearly interdisciplinary 
 	- BUT... just mentioning these things is not enough, that’s just obvious buzzword dropping - you have to back it up!
 	  	- Every application will mention Machine Learning, if you are going to include this, be specific!
-		- I wanted to do EFT fits, to back it up I added a toy EFT fit to my proposal to show I actually knew how to do it.
+		- E.g if you want to include EFT fits in your proposal it would help to back it up by making a toy EFT fit (and killer plot) to show that you actually know how to do it.
 
 - Anecdotal example:
-        - Application with someone at a senior level (who had been on these sorts of panels) they said: *"if it doesn’t involve the Higgs self-coupling don’t bother"*. They were certainly 99% joking, but you get the idea...
+        - Discussing an application with someone at a senior level (who had been on these sorts of panels) from a different field they said: *"if it doesn’t involve the Higgs self-coupling don’t bother"*. They were certainly 90% joking, but you get the idea...
 
 ## Specifics
 
 ### Think about how your experience fits in
 - In general you are expected to be one of the best people in the world to do the research you propose.
 - This means you have to have the experience to back up the physics in your proposal or at least closely aligned experience
-	- I was starting to think that my previous application wasn’t strong enough and was thinking that something involving the Higgs might be an easier sell. I accepted an analysis coordinator role for Higgs that I otherwise would probably have turned down (I wouldn’t have had enough time).
-	- Another part of my application fitted in nicely with my previous convenership.
+	- A reason why analysis coordination roles can be so important.
+	- Applications are also strengthened by fitting in with e.g. previous convenership positions.
 
 
 ### Do not be vague!
 
 > ## No really, don't!
 >
-> I cannot emphasise this enough! From my first application and the other applications I've read from other people this is by far one of the most common complaints!
+> We cannot emphasise this enough! From the other applications we've read from other people this is by far one of the most common complaints!
 {: .discussion}
 
-- Include quantitive studies if possible
 - Staying I will do X,Y,Z and it will make everything “better” is really not going to cut it.
+- Include quantitive studies if possible
 - You need numbers and something to back them up (preferably your own studies, or at least theory/pheno papers)
-- One of the most time consuming things about the preparation for my proposal was putting together a toy EFT fit.
+  - See example about putting together a toy EFT fit above.
 
 
 > ## TODO

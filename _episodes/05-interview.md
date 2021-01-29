@@ -12,16 +12,15 @@ keypoints:
 
 ## Interview slides
 - Make sure you keep them light on text and pull out the key messages from your proposal in an accessible way
-- Do spend time on the “Things you’ve done since submitting"
-	- For me I was lucky to be able to highlight a new very high-profile ATLAS result that I led that was just presented at LHCP.
+- If asked, do spend time on the “Things you’ve done since submitting"
+	- Do you have a recent high-profile result that you make significant contributions to? Then mention it!
 - Get non-physicists to read your slides
-	- I got several people to read mine. 
 	- The most helpful 
 		- Mock interview panel (with non-physicists)
-		- My friend from Uni (we did Physics UG together, but he’s not been in physics since)
-	- Gave a lot of input on bringing out the “big impact” statements and making it accessible to non-specialists
+		- Friends from University? (People who studied physics but are not HEP researchers would be a good level)
+	- This can help a lot to bring out the “big impact” statements and making it accessible to non-specialists
 		- E.g. messages like
-			- “Understanding the fate of the universe"
+			- “Vital to understanding the fate of the universe"
 			- “Factor 3 improvement in sensitivity"
 
 ## Interview itself 
@@ -30,18 +29,23 @@ keypoints:
 	- So practice with people not in HEP - they can immediately see whether your proposal sounds generically impressive or not.
 
 
-- Practise with students and post-docs - they will help you check you know the basics (I was asked in a mock interview - does your projection include the other combination channels and if not how do they look? I knew the answer for the latest results, but not the projections for the end of Run 3).
+- Practise with students and post-docs - they will help you check you know the basics
 - Practise with senior people in your field - they can test your wider knowledge a bit more and help you see better the bigger picture
 - Make sure you have a list of fairly generic questions that you can answer
-	- What happens if your research isn’t funded 
-	- Have an idea about the future
-- Think of and
+	- What happens if your research isn’t funded?
+	- Make sure you have an idea about the longer term future of your proposed field.
+
+- Think of and try to come up with answers to generic questions:
+> ## TODO
+> List more questions!
+{: .callout}
+
 - Speak to lots of people
 	- Get tips!
 
 
 > ## TODO
->- check my interview notes
+>- check interview notes
 >- collate other people’s interview tips
 {: .callout}
 
