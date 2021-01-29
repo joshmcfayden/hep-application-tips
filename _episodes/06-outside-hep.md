@@ -20,7 +20,8 @@ Daunting as it may seem, if you're several application rounds in and still not h
 
 > ## Example
 > One of us were in the position of being out of contract before hearing back from submitted applications - this meant we had no choice but to also apply for non-academia jobs.
-> There can some major pros these jobs compared to academia...
+> 
+> There can some major pros to these jobs compared to academia...
 >    - Permanent from the start and had quite a lot of opportunity for internal progression
 >    - The money can often be better!
 > In the end there may be no competition, but on the whole the experience could make you feel a lot less penned in and stressed about being “stuck” in academia.
